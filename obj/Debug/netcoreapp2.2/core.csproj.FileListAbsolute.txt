@@ -1,0 +1,14 @@
+/Users/idanshahar/sandbox/etoro/core/bin/Debug/netcoreapp2.2/core.deps.json
+/Users/idanshahar/sandbox/etoro/core/bin/Debug/netcoreapp2.2/core.runtimeconfig.json
+/Users/idanshahar/sandbox/etoro/core/bin/Debug/netcoreapp2.2/core.runtimeconfig.dev.json
+/Users/idanshahar/sandbox/etoro/core/bin/Debug/netcoreapp2.2/core.dll
+/Users/idanshahar/sandbox/etoro/core/bin/Debug/netcoreapp2.2/core.pdb
+/Users/idanshahar/sandbox/etoro/core/obj/Debug/netcoreapp2.2/core.csprojAssemblyReference.cache
+/Users/idanshahar/sandbox/etoro/core/obj/Debug/netcoreapp2.2/core.csproj.CoreCompileInputs.cache
+/Users/idanshahar/sandbox/etoro/core/obj/Debug/netcoreapp2.2/core.RazorAssemblyInfo.cache
+/Users/idanshahar/sandbox/etoro/core/obj/Debug/netcoreapp2.2/core.RazorAssemblyInfo.cs
+/Users/idanshahar/sandbox/etoro/core/obj/Debug/netcoreapp2.2/core.AssemblyInfoInputs.cache
+/Users/idanshahar/sandbox/etoro/core/obj/Debug/netcoreapp2.2/core.AssemblyInfo.cs
+/Users/idanshahar/sandbox/etoro/core/obj/Debug/netcoreapp2.2/core.RazorTargetAssemblyInfo.cache
+/Users/idanshahar/sandbox/etoro/core/obj/Debug/netcoreapp2.2/core.dll
+/Users/idanshahar/sandbox/etoro/core/obj/Debug/netcoreapp2.2/core.pdb
