@@ -1,0 +1,16 @@
+apiVersion : apps/v1beta1
+kind: Deployment
+metadata:
+  name: idanshahardotnetcorewebapi 
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: idanshahardotnetcorewebapi 
+    spec:
+      containers:
+        - name: idanshahardotnetcorewebapi 
+          image: idansacr.azurecr.io/idanshahardotnetcorewebapi 
+          ports:
+          - containerPort: 80
